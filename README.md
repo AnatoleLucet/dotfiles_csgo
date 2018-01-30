@@ -13,7 +13,6 @@ In your **Steam library** :
 
 and **paste** `exec autoexec.cfg`
 
-**
 
 And now you are done \o/
 
