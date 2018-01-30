@@ -13,5 +13,7 @@ Right click on Counter-Strike Global Offensive / Launch options
 
 And paste `exec autoexec.cfg`
 
+-----------------------
+
 And now you are done \o/
 ##### by Crayzzit
