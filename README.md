@@ -1,4 +1,5 @@
-# dotfiles_csgo
+# csgo dotfile
+#### by Crayzzit
 
 ## Install
 ### 1
