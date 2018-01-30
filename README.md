@@ -2,7 +2,7 @@
 
 ## Install
 ### Part.1
-**Paste the .cfg and .txt files** in :
+**Paste** the .cfg and .txt files in :
 
 `{hard disk}:\Programe Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`
 
