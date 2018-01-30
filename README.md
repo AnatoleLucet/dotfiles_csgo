@@ -18,4 +18,4 @@ And now you are done \o/
 
 ---
 
-#### by Crayzzit
+#### Made by Crayzzit
