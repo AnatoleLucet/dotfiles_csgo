@@ -25,7 +25,7 @@
 ## Documentation
 
 ### Firstly
-Ok so i recommend you to install a complex code editor like the portable version of "[**Sublime Text 3**](https://download.sublimetext.com/Sublime Text Build 3143 x64.zip)".
+Ok so i recommend you to install a complex code editor like the portable version of "[**Sublime Text 3**](https://download.sublimetext.com/Sublime%20Text%20Build%203143%20x64.zip)".
 
 You can also use another editor like "**Atom**", "**notpad++**" (yes somebody use notepad++, probably some really boring person), or maybe the "**windows notpad**", etc... Anyway.
 
@@ -70,9 +70,9 @@ This table will help your to translate your graphic settings in to your video.tx
 [My reference screenshot](https://prosettings.net/wp-content/uploads/2016/11/csgo-settings.jpg)
 
 screenshot | set | videos.txt |info
---- | --- | ---
-Resolution (width) | 1920 x | defaultresheight "1920"
-Resolution (height) | x 1080 | defaultresheight "1080"
+--- | --- | --- | ---
+Resolution (width) | 1920 x | defaultresheight "1920" |
+Resolution (height) | x 1080 | defaultresheight "1080" |
 Display Mode | Fullscreen | defaultresheight "1" | [more infos]()
 
 
