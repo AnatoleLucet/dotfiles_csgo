@@ -27,7 +27,7 @@
 ### Firstly
 Ok so i recommend you to install a complex code editor like the portable version of "[**Sublime Text 3**](https://download.sublimetext.com/Sublime%20Text%20Build%203143%20x64.zip)".
 
-You can also use another editor like "**Atom**", "**notpad++**" (yes somebody use notepad++, probably some really boring person), or maybe the "**windows notpad**", etc... Anyway.
+You can also use another editor like "**Atom**", "**notepad++**" (yes somebody use notepad++, probably some really boring person), or maybe the "**windows notepad**", etc... Anyway.
 
 ---
 
