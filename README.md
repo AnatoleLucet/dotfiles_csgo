@@ -20,9 +20,8 @@
 
 #### Textual
 
-**Paste** the autoexec.cfg and video.txt files in :
-
-`{hard disk}:\Program Files (x86)Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`
+1. **Paste** the autoexec.cfg and video.txt files in :
+2. `{hard disk}:\Program Files (x86)Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`
 
 
 ### Part.2
