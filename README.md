@@ -4,6 +4,10 @@
 
 ---
 
+## Download
+
+![download](http://g.recordit.co/zyFCv2DcXS.gif)
+
 ## Install
 
 **YOU CAN'T BE VAC BAN FOR USING .cfg AND .txt FILES** (somebody don't know that)
