@@ -1,5 +1,7 @@
 # Documentation
 
+[Go back to menu](https://github.com/AnatoleLucet/dotfiles-csgo)
+
 ## Firstly
 Ok so i recommend you to install a complex code editor like the portable version of "[**Sublime Text 3**](https://download.sublimetext.com/Sublime%20Text%20Build%203143%20x64.zip)".
 
@@ -54,3 +56,5 @@ Display Mode | Fullscreen | defaultresheight "1" | [more infos]()
 
 
 ## Basic keys
+
+[Go back to menu](https://github.com/AnatoleLucet/dotfiles-csgo)
