@@ -15,5 +15,3 @@ Click on the links below to learn how to configure these files
 3. [Documentation](https://github.com/AnatoleLucet/dotfiles-csgo/blob/master/markdown/doc.md)
 
 ---
-
-#### Made by Crayzzit
