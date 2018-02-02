@@ -1,5 +1,7 @@
 # Install
 
+[Go back to menu](https://github.com/AnatoleLucet/dotfiles-csgo)
+
 **YOU CAN'T BE VAC BAN FOR USING .cfg AND .txt FILES** (somebody don't know that)
 
 ## Part.1
@@ -27,3 +29,5 @@
 3. Click on : **Properties**
 4. Click on : **Set Launch Options**
 5. **Paste** : `exec autoexec.cfg`
+
+[Go back to menu](https://github.com/AnatoleLucet/dotfiles-csgo)
