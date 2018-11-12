@@ -57,6 +57,10 @@ Join dust2 in solo and execute a dm commands layout | dm_dust2
 Join mirage in solo and execute a dm commands layout | dm_mirage
 Join inferno in solo and execute a dm commands layout | dm_inferno
 Join cache in solo and execute a dm commands layout | dm_cache
+Join dust2 in solo and execute a dm in hs mod commands layout | dm_dust2_hs
+Join mirage in solo and execute a dm in hs mod commands layout | dm_mirage_hs
+Join inferno in solo and execute a dm in hs mod commands layout | dm_inferno_hs
+Join cache in solo and execute a dm in hs mod commands layout | dm_cache_hs
 Join dust2 in solo and execute a training commands layout | training_dust2
 Join mirage in solo and execute a training commands layout | training_mirage
 Join inferno in solo and execute a training commands layout | training_inferno
