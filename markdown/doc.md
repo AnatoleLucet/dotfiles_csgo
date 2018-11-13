@@ -22,7 +22,7 @@ You can also use another editor like "**Atom**", "**Visual Studio Code**", BUT *
 
 ---
 
-### All available functions and commands
+## All available functions and commands
 
 #### Easly join a community server in the console
 
